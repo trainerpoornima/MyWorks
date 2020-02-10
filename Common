@@ -1,3 +1,9 @@
-Type Here 
 Dev 1 is adding
+Dev 2 adding
 
+<<<<<<< HEAD
+New line from Alice
+=======
+
+New Line from BOB
+>>>>>>> Bob
